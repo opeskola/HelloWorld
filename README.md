@@ -5,4 +5,7 @@ This is just a dummy repository for course DevOpsWithDocker (https://devopswithd
 ## Prerequisities
 You need python 2.7
 
+## Running the program
+Run the program with python main.py
+
 
